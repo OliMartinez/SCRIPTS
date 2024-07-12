@@ -1,0 +1,6 @@
+com\castores\models\Usuario.class
+com\castores\dao\HistoricoDAO.class
+com\castores\dao\UsuarioDAO.class
+com\castores\models\Producto.class
+com\castores\models\Historico.class
+com\castores\dao\ProductoDAO.class
